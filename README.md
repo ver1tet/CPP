@@ -46,3 +46,4 @@ manstruk - V.S.
 <p>Kostya</p>
 <p>Глеб Нестерчук</p>
 <p>Катерина Лемішко</p>
+<p>Galitskiy</p>
